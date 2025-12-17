@@ -1,0 +1,5 @@
+{
+  "name": "HCS 평가",
+  "description": "Analyze temperature data logs, synchronize time based on a reference point, and merge calculated metrics into a summary report.",
+  "requestFramePermissions": []
+}
